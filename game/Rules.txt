@@ -1,0 +1,5 @@
+You will have 3 option to chose from.
+You can either chose Rock, Paper or Scissor.
+After you chose any one option computer will autometically chose one option.
+If you chose Rock and computer chose Paper then you will.
+Else if you chose Rock and computer chose Scissor then then computer will.
