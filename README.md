@@ -1,8 +1,8 @@
 # Rock-Paper_Scissor-Game
 A basic Rock Paper Scissor game. In this game you can play Rock Paper Scissor with bot. it is simple game. I have used HTML CSS and JavaScript for this game
 
-# Play Game
-![](https://tubular-rugelach-1203ab.netlify.app/)
+# Live
+<a href="https://tubular-rugelach-1203ab.netlify.app/"> Play Game </a>
 
 ## Start Page
 ![](https://github.com/Mozakir178/Rock-Paper_Scissor-Game/blob/main/images/home.jpg)
